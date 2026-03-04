@@ -1,5 +1,10 @@
 # CloudGuard – Azure Secure Infrastructure & Monitoring
 
+![Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue)
+![Security](https://img.shields.io/badge/Focus-Cloud%20Security-green)
+![Monitoring](https://img.shields.io/badge/Monitoring-Log%20Analytics-orange)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-VNet%20%7C%20NSG-purple)
+
 ## Overview
 CloudGuard is a hands-on Microsoft Azure infrastructure project designed to demonstrate secure cloud networking, access control, monitoring, and governance using Azure-native services.
 
