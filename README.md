@@ -10,6 +10,12 @@ CloudGuard is a hands-on Microsoft Azure infrastructure project designed to demo
 
 This project simulates a real-world cloud environment where network segmentation, security hardening, and centralized monitoring are implemented to protect cloud resources and improve operational visibility.
 
+## Architecture Diagram
+
+The following diagram shows the Azure infrastructure architecture used in this project.
+
+![Azure Architecture](screenshots/phase-2/P2-Architecture-ResourceVisualizer.png)
+
 ## Skills Demonstrated
 
 • Azure Virtual Network (VNet) architecture  
@@ -19,6 +25,15 @@ This project simulates a real-world cloud environment where network segmentation
 • KQL queries for log analysis  
 • Microsoft Defender for Cloud security posture management  
 • Azure Resource architecture visualization
+
+## Implementation Steps
+
+1. Created Azure Resource Group for project isolation  
+2. Configured Virtual Network with segmented subnets  
+3. Applied Network Security Group rules for inbound security  
+4. Enabled Azure Log Analytics for monitoring  
+5. Configured Microsoft Defender for Cloud security posture management  
+6. Used Azure Resource Visualizer to validate infrastructure architecture
 
 ## Architecture Components
 
