@@ -82,3 +82,37 @@ Deploy a VM inside the public subnet
 Implement alert rules for NSG events  
 Create monitoring dashboards  
 Apply Azure Policy for governance automation
+
+## Project Implementation Screenshots
+
+### Phase 1 – Infrastructure Setup
+
+Resource Group Creation  
+![Resource Group](screenshots/phase-1/03-RG-Created.png)
+
+Virtual Network Configuration  
+![VNet](screenshots/phase-1/01_VNet_Config.png)
+
+Storage Account Setup  
+![Storage](screenshots/phase-1/Phase1_Storage_Config.png)
+
+Log Analytics Workspace  
+![Log Analytics](screenshots/phase-1/02_LogAnalytics_Success.png)
+
+
+### Phase 2 – Security & Monitoring
+
+Network Security Group Configuration  
+![NSG](screenshots/phase-2/02_NSG_InboundRule_Config.png)
+
+NSG Attached to Subnet  
+![NSG Subnet](screenshots/phase-2/05_Subnet_NSG_Attached.png)
+
+Log Analytics Monitoring Validation  
+![Logs](screenshots/phase-2/P2-KQL-NSG-Log-Validation.png)
+
+Microsoft Defender Secure Score  
+![Defender](screenshots/phase-2/P2-Defender-Overview-SecureScore.png)
+
+Azure Architecture Visualization  
+![Architecture](screenshots/phase-2/P2-Architecture-ResourceVisualizer.png)
