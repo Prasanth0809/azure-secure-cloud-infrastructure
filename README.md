@@ -1,12 +1,26 @@
 # CloudGuard – Azure Secure Infrastructure & Monitoring
 
 📖 **Full case study:**  
-https://prasanth-portfolio-blond.vercel.app/blog/azure-secure-storage-architecture
+[Azure Secure Storage Architecture](https://prasanth-portfolio-blond.vercel.app/blog/azure-secure-storage-architecture)
 
 ![Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue)
 ![Security](https://img.shields.io/badge/Focus-Cloud%20Security-green)
 ![Monitoring](https://img.shields.io/badge/Monitoring-Log%20Analytics-orange)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-VNet%20%7C%20NSG-purple)
+
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Architecture Diagram](#architecture-diagram)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Implementation Steps](#implementation-steps)
+- [Architecture Components](#architecture-components)
+- [Key Implementations](#key-implementations)
+- [Tools & Services Used](#tools--services-used)
+- [What I Learned](#what-i-learned)
+- [Future Enhancements](#future-enhancements)
+- [Project Implementation Screenshots](#project-implementation-screenshots)
 
 ---
 
