@@ -14,7 +14,7 @@ This project simulates a real-world cloud environment where network segmentation
 
 The following diagram shows the Azure infrastructure architecture used in this project.
 
-![Azure Architecture](screenshots/phase-2/P2-Architecture-ResourceVisualizer.png)
+![Azure Secure Architecture](screenshots/architecture-diagram.png)
 
 ## Skills Demonstrated
 
