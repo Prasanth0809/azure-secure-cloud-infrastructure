@@ -144,5 +144,3 @@ Log Analytics Monitoring Validation
 Microsoft Defender Secure Score  
 ![Defender](screenshots/phase-2/P2-Defender-Overview-SecureScore.png)
 
-Azure Architecture Visualization  
-![Architecture](screenshots/phase-2/P2-Architecture-ResourceVisualizer.png)
