@@ -2,7 +2,7 @@
 
 > **Enterprise style Azure security project built from scratch covering networking, monitoring, incident alerting, governance, and security posture management using Azure-native services.**
 
-📖 [Full Case Study](https://prasanth-portfolio-blond.vercel.app/blog/azure-secure-storage-architecture) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/prasanthpanneer/)  💼 Open to Azure Administrator & Cloud Engineer roles
+📖 [Full Case Study](https://prasanth-portfolio-blond.vercel.app/blog/azure-secure-storage-architecture) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/prasanthpanneer/) &nbsp;|&nbsp; 💼 Open to Azure Administrator & Cloud Engineer roles
 
 ![Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Security](https://img.shields.io/badge/Focus-Cloud%20Security-green?style=for-the-badge)
